@@ -1,3 +1,3 @@
-Randomly generated rectangles with Processing 3.
+Randomly generated rectangles.
 
 ![thumbnail](/sketch_210929a/thumb.gif)
