@@ -1,3 +1,3 @@
-Collection of studies in Processing 3.
+# Processing 3 studies
 
 Thumbnails in each subfolder.
