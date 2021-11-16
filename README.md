@@ -1,5 +1,7 @@
 # Processing 3 studies
 
+Collection of studies in creative coding with Processing 3.
+
 #### [sketch_210929a](sketch_210929a/)
 ![thumb1](/sketch_210929a/thumb.gif)
 
