@@ -1,6 +1,10 @@
-# Processing 3 studies
+# Processing 3
 
+### EN
 Collection of studies in creative coding with Processing 3.
+
+### PT-BR
+Coleção de estudos em programação criativa com Processing 3.
 
 #### [sketch_210929a](sketch_210929a/)
 ![thumb1](/sketch_210929a/thumb.gif)
