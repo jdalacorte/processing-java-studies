@@ -1,10 +1,10 @@
-# Processing 3
+# Processing 3/Java
 
 ### EN
-Collection of studies in creative coding with Processing 3.
+Collection of creative coding studies in Processing 3 with Java.
 
 ### PT-BR
-Coleção de estudos em programação criativa com Processing 3.
+Coleção de estudos em programação criativa em Java com Processing 3.
 
 ---
 
